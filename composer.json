@@ -1,0 +1,37 @@
+{
+    "name": "bleeld/driver-alioss",
+    "description": "Aliyun OSS SDK for PHP",
+    "homepage": "https://github.com/bleeld/think-alioss",
+	"keywords": [
+        "thinkphp6",
+        "thinkphp8",
+        "aliyun oss"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dreamlee",
+            "email": "1755773846@qq.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/bleeld/think-alioss/issues"
+    },
+    "license": "MIT",
+    "require": {
+        "php":">=5.3"
+    },
+    "require": {
+        "php": "^7.0||^8.0",
+        "bleeld/think-oss": "^1.0",
+        "bleeld/driver-qiniuoss": "^1.0"
+    },
+	"version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "AliOSS\\": "src/OSS"
+        }
+    }
+}
