@@ -21,12 +21,9 @@
     },
     "license": "MIT",
     "require": {
-        "php":">=5.3"
-    },
-    "require": {
-        "php": "^7.0||^8.0",
-        "bleeld/think-oss": "^1.0",
-        "bleeld/driver-qiniuoss": "^1.0"
+        "php":">=5.3",
+        "bleeld/think-oss": ">=1.0.0",
+        "bleeld/driver-qiniuoss": ">=1.0.0"
     },
 	"version": "1.0.0",
     "autoload": {
