@@ -23,7 +23,7 @@
     "require": {
         "php":">=5.3",
         "bleeld/think-oss": ">=1.0.0",
-        "bleeld/driver-qiniuoss": ">=1.0.0"
+        "bleeld/driver-qiniu": ">=1.0.0"
     },
 	"version": "1.0.0",
     "autoload": {
