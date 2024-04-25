@@ -5,7 +5,7 @@
 	"keywords": [
         "thinkphp6",
         "thinkphp8",
-        "aliyun oss"
+        "aliyun oss SDK"
     ],
     "type": "library",
     "license": "MIT",
